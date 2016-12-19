@@ -1,4 +1,4 @@
-Boost JS dropdown [![Build Status](https://travis-ci.org/marksmccann/boost-js-dropdown.svg?branch=master)](https://travis-ci.org/marksmccann/boost-js-dropdown)
+Boost JS Dropdown [![Build Status](https://travis-ci.org/marksmccann/boost-js-dropdown.svg?branch=master)](https://travis-ci.org/marksmccann/boost-js-dropdown)
 ==================================================
 A style-free dropdown plugin for jQuery and [Boost JS](https://github.com/marksmccann/boost-js). While other plugins style your dropdown for you, this plugin only handles the functionality, leaving the layout and styling up to you.
 
