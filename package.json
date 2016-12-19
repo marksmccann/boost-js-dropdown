@@ -2,7 +2,7 @@
   "name": "boost-js-dropdown",
   "title": "Boost JS Dropdown",
   "version": "0.0.1",
-  "description": "A style-free dropdown Menu plugin for jQuery and Boost JS",
+  "description": "A style-free dropdown plugin for jQuery and Boost JS",
   "main": "src/dropdown.js",
   "scripts": {
     "start": "gulp",
@@ -29,7 +29,7 @@
     "mocha-jsdom": "^1.1.0"
   },
   "dependencies": {
-    "boost-js": "^0.3.2",
+    "boost-js": "^0.5.0",
     "jquery": "^3.1.1"
   }
 }
